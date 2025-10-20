@@ -40,4 +40,4 @@ jobs:
     - name: Install Hatch
       uses: pypa/hatch@install
       with:
-        version: "1.14.1"
+        version: "1.15.1"
